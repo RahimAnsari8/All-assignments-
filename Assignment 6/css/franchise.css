@@ -1,0 +1,49 @@
+/* ============get a franchise page============= */
+#frachise{
+    color: white;
+    padding-top: 50px;
+}
+#frachise>button{
+    border-radius: 60px;
+    background-color: red;
+    padding: 10px;
+    border: 2px solid red;
+    width: 150px;
+    margin-top: 20px;
+}
+
+
+/* ==============navbar================= */
+#nav {
+    background-color: black;
+    padding-top: 0px;
+    height: 80px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+position: sticky;
+top: 0px;
+z-index: 1;
+}
+
+.icon {
+    color: white;
+    font-size: 20px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+#nav-button {
+    background-color: red;
+    border-radius: 60px;
+    color: white;
+    height: 55px;
+    margin-right: 50px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+
+/*==============footer============ */
+#footer {
+    background-color:  rgb(8, 10, 10);
+    color: white !important;
+    padding-top: 80px;
+ } 

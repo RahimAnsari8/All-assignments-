@@ -1,0 +1,120 @@
+/* ============about us page================== */
+.introduction{
+    text-align: center;
+    font-size: smaller;
+    margin-bottom: 40px;
+}
+.introduction>h1{
+    color: white;
+}
+.introduction>p{
+    color: #FFFFFFB3;
+}
+/* =====================resturant=============== */
+#home{
+    height: 500px;
+   margin-bottom: -130px;
+}
+#home-img {
+    margin-right:-50px;
+    margin-left: 10px;
+    
+}
+#text-home {
+    color: white;
+     margin-left: -20px; 
+}
+#text-home>h5{
+    color: white;
+    letter-spacing: 5px;
+    font-weight:bolder;
+
+}
+#text-home>p{
+color: #FFFFFFB3;
+margin-top: 20px;
+}
+/* ======================salt n resturant==================== */
+#invention {
+    height: 400px;
+   display: flex;
+   justify-content: center;
+   padding: 50px;
+   align-items: center;
+    margin-top: -20px;
+}
+#invention-end {
+    color: white;
+   
+}
+#invention-img {
+    margin-right: -30px;
+   
+}
+#invention-end>h5{
+    color: white;
+    font-weight: 700;
+    margin-top: -50px;
+    margin-left: -80px;
+
+}
+#invention-end>p{
+color: #FFFFFFB3;
+margin-top: 20px;
+margin-left: -80px;
+font-size: smaller;
+}
+/* =========location============== */
+.location{
+    background-color: black;
+    height: 1200px;
+    padding: 100px;
+    margin-top: -30px;
+   
+}
+.text {
+    color: #FFFFFFB3;
+    font-size: 12px;
+}
+.title {
+    color: white;
+    font-size: 15px;
+}
+
+
+
+/* ================navbar================ */
+#nav {
+    background-color: black;
+    padding-top: 0px;
+    height: 80px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+position: sticky;
+top: 0px;
+z-index: 1;
+}
+
+.icon {
+    color: white;
+    font-size: 20px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+#nav-button {
+    background-color: red;
+    border-radius: 60px;
+    color: white;
+    height: 55px;
+    margin-right: 50px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+
+/*=========footer=================== */
+#footer {
+    background-color:  rgb(8, 10, 10);
+    color: white !important;
+    padding-top: 80px;
+ } 
+

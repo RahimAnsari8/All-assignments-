@@ -1,0 +1,139 @@
+/* ===================navbar================== */
+#nav {
+    background-color: black;
+    padding-top: 0px;
+    height: 80px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+position: sticky;
+top: 0px;
+z-index: 1;
+}
+
+.icon {
+    color: white;
+    font-size: 20px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+#nav-button {
+    background-color: red;
+    border-radius: 60px;
+    color: white;
+    height: 55px;
+    margin-right: 50px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+/* ===================card============== */
+#card {
+    background-color: black;
+    height: 750px;
+}
+
+/* ===============card end================= */
+#card-end {
+    height: 400px;
+    margin-bottom: 1px;
+    
+}
+#card-img {
+    margin-left: -120px;
+    background-color:  rgb(8, 10, 10);
+}
+#text-end {
+    background-color: rgb(8, 10, 10);
+    color: white;
+    margin-right: -104px;
+}
+#text-end>h5{
+    color: #ED1C24;
+    letter-spacing: 10px;
+
+}
+#text-end>p{
+color: #FFFFFFB3;
+margin-top: 20px;
+}
+#text-end>button{
+    border-radius: 60px;
+    background-color:  rgb(8, 10, 10);
+    color: white;
+    width: 150px;
+    padding:10px;
+    border: 1px solid white;
+    margin-top: 30px;
+
+}
+/* ==========our deals============= */
+.deals{
+    background-color: black;
+    height: 1500px;
+    padding: 100px;
+}
+.card-text {
+    color: whitesmoke;
+}
+.card-title {
+    color: white;
+}
+
+.order{
+    border-radius: 60px;
+    background-color: red;
+    color: white;
+    border: 0.5px solid red;
+    padding: 10px;
+    width: 120px;
+}
+/* ===========manu of week=========== */
+#manu-week{
+    height: 500px;
+    margin-left: 8px;
+}
+#manu-img {
+    margin-right:-280px;
+    background-color:  rgb(8, 10, 10);
+}
+#text-week {
+    background-color: rgb(8, 10, 10);
+    color: white;
+    margin-left: -10px;
+}
+#text-week>h5{
+    color: #ED1C24;
+    letter-spacing: 5px;
+
+}
+#text-week>p{
+color: #FFFFFFB3;
+margin-top: 20px;
+}
+#text-week>button{
+    border-radius: 60px;
+    background-color: red;
+    color: white;
+    width: 150px;
+    padding:10px;
+    border: 0.5px solid red;
+    margin-top: 30px;
+
+}
+
+/* ==========social feed============ */
+#social {
+    background-color: black;
+}
+/*================footer==================== */
+#footer {
+    background-color:  rgb(8, 10, 10);
+    color: white !important;
+    padding-top: 80px;
+ } 
+
+
+
+
+
+
+
